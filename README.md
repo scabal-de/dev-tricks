@@ -34,6 +34,8 @@ I hope it helps you
 
 #### 4. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TDD)
 
-#### 5. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
+#### 5. [You_Dont_Know_JS_Yet](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/You_Dont_Know_JS_Yet)
 
-#### 6. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/You_Dont_Know_JS_Yet)
+#### 6. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
+
+
