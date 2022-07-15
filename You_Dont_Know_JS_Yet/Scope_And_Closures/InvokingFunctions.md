@@ -1,0 +1,5 @@
+#Invoking Function inmediately
+
+```jsx
+((){...})()
+```

@@ -1,0 +1,19 @@
+{
+  "name": "find-odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel challenges/validatePin.js -d build",
+    "start": "npm run build && node build/validatePin.js",
+    "test": "jest --verbose"
+  },
+  "author": "Samuel Cabal Lozano",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "jest": "^27.3.1"
+  }
+}

@@ -1,3 +1,7 @@
+### Node ignore
+# Output of 'npm pack'
+*.tgz
+
 # Logs
 logs
 *.log

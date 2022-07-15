@@ -1,0 +1,18 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Samuel Cabal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.14"
+  }
+}
