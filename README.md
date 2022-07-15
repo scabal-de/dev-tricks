@@ -24,18 +24,20 @@ I hope it helps you
 
 ## Projects
 
-#### 1. [Performance of node servers](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/Advanced_NodeJs)
+#### 1. [Performance of node servers](https://github.com/scabal-de/dev-tricks/tree/main/Advanced_NodeJs)
 
 <!--#### 2. [JavaScript Asynchronous](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main)-->
 
-#### 2. [TypeScript](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TypeScript_Fundamentals)
+#### 2. [Multi-Threading in NodeJS](https://github.com/scabal-de/dev-tricks/tree/main/Multithreaded_JS)
 
-#### 3. [JavaScript Patterns](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/Design_Patterns)
+#### 3. [TypeScript](https://github.com/scabal-de/dev-tricks/tree/main/TypeScript_Fundamentals)
 
-#### 4. [TDD](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/TDD)
+#### 4. [JavaScript Patterns](https://github.com/scabal-de/dev-tricks/tree/main/Design_Patterns)
 
-#### 5. [You_Dont_Know_JS_Yet](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/You_Dont_Know_JS_Yet)
+#### 5. [TDD](https://github.com/scabal-de/dev-tricks/tree/main/TDD)
 
-#### 6. [Challenges](https://github.com/Unosquare-CoE-JavaScript/samuel-cabal/tree/main/JavaScript_Challenges)
+#### 6. [You_Dont_Know_JS_Yet](https://github.com/scabal-de/dev-tricks/tree/main/You_Dont_Know_JS_Yet)
+
+#### 7. [Challenges](https://github.com/scabal-de/dev-tricks/tree/main/JavaScript_Challenges)
 
 
