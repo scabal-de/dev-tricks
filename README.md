@@ -10,7 +10,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.egm-robotics.com/assets/img/servicios/mas_servicios/aws.jpg" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.computerhope.com/jargon/g/google-cloud-platform.jpg" width="40" />
+  <img src="https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1371569866009&ssbinary=true" width="40" />
   &nbsp;&nbsp;&nbsp;
   
 </p>
