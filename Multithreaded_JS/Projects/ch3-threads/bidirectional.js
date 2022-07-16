@@ -5,7 +5,7 @@ if (isMainThread) {
     worker.postMessage(msg);
   });
 } else {
-  parentPort.on("message", (msg) => {
+  parentPort.once("message", (msg) => {
     console.log("We got a message from the main thread:", msg);
   });
   parentPort.postMessage("Hello, World!");

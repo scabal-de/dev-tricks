@@ -18,7 +18,7 @@ if (isMainThread) {
   });
 } else {
   const { port } = workerData;
-  port.on("message", (msg) => {
+  port.once("message", (msg) => {
     console.log("We got a message from the main thread:", msg);
   });
   port.postMessage("Hello, World!");

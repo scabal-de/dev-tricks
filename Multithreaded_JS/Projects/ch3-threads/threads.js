@@ -1,4 +1,4 @@
-// process.env.UV_THREADPOOL_SIZE = 1;
+process.env.UV_THREADPOOL_SIZE = 8;
 
 const crypto = require("crypto");
 
